@@ -1,0 +1,21 @@
+
+    h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+background-image:url("https://images.unsplash.com/photo-1581374596723-164f439806fd?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYyMjI1NjYxOA&ixlib=rb-1.2.1&q=85") ;
+background-position: center;
+background-size: cover;
+
+
+}
+
+#mycanvas{
+border-width: 10px ;
+background-color: white;
+border-style: ridge;
+
+}
+  
